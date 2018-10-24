@@ -1,10 +1,12 @@
 # hello-world
 Just another repository
 
-im just testing.
+I'm just testing.
 
 another 
 
-tesing.
+testing.
 
 modified on 2018.10.24 by 5a9.
+
+1024 again.
